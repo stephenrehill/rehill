@@ -3,3 +3,5 @@ yellow
 brown
 blue
 black
+lawyer
+judge
