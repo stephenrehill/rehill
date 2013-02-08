@@ -1,7 +1,6 @@
-4321
-yellow
 brown
 blue
 black
 lawyer
 judge
+yellow
