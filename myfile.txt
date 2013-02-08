@@ -3,3 +3,6 @@ socks
 bed
 door
 chair
+london
+bath
+
