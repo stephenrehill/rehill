@@ -1,4 +1,3 @@
-shoes
 top
 socks
 bed
