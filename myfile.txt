@@ -1,8 +1,7 @@
-top
-socks
-bed
-door
-chair
-london
 bath
-
+bed
+chair
+door
+london
+socks
+top
