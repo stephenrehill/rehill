@@ -1,4 +1,5 @@
 shoes
 top
 socks
-hat
+bed
+door
